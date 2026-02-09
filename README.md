@@ -1,2 +1,1 @@
-# Git-Github
-Training purpose
+# Hi this is for my training purpose
